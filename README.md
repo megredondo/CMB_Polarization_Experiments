@@ -5,7 +5,7 @@ This repository intended to understand main components of a detection systems ba
 
 Organization:
 1) CMB Signal and scientific objectives
-  - Radiostranomy and sources
+  - Radioastranomy and sources
   - Thermal Radiation
   - Photon Stadistics and NEP
   - Polarization
