@@ -18,7 +18,7 @@ Organization:
   - Eficiency and time constant
   - Required NEP
 4) Readout System
-  . Multiplexing Scheme
+  - Multiplexing Scheme
   - NEP and SNR calculations
   - Cryogenic set-up and materials
   - Radiofrequency Front-end 
