@@ -1,0 +1,6 @@
+ 
+Section Index and description
+
+Results folders Contains csv, s2p data to fit using the scripts.
+
+Scripts contains the fit function

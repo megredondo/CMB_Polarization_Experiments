@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<xgeomstate>
+  <customsnap type="cell" divs="0" custx="0" custy="0" xsnap="1" ysnap="1" overide="0"/>
+  <orthomode state="0"/>
+  <defplanarmetal name="Lossless"/>
+  <defviametal name="Lossless"/>
+  <defbrick name="Air"/>
+  <2dwindow left="-201" top="56" right="1075" bottom="713"/>
+</xgeomstate>
+

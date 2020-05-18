@@ -1,0 +1,168 @@
+Run 1:  Fri May 15 11:33:23 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  3 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Fri May 15 11:38:57 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Fri May 15 11:38:57 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Fri May 15 11:38:57 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Fri May 15 12:22:15 2020.
+
+
+Run 2:  Sat May 16 01:45:12 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.83 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Sat May 16 01:50:37 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Sat May 16 01:50:37 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Sat May 16 01:50:37 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sat May 16 02:15:02 2020.
+
+
+Run 3:  Sat May 16 15:25:34 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.832 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Sat May 16 15:30:50 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Sat May 16 15:30:50 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Sat May 16 15:30:50 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sat May 16 16:30:42 2020.
+
+
+Run 4:  Sun May 17 07:33:11 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.8336 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Sun May 17 07:38:38 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Sun May 17 07:38:38 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Sun May 17 07:38:38 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sun May 17 08:08:24 2020.
+
+
+Run 5:  Sun May 17 08:46:11 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.8337 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Sun May 17 08:51:38 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Sun May 17 08:51:38 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Sun May 17 08:51:38 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sun May 17 09:01:18 2020.

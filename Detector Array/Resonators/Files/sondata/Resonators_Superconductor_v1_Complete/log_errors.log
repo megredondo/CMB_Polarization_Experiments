@@ -1,0 +1,106 @@
+Run 1:  Sat May 16 13:24:49 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=4997.16, y=2065.95 microns.
+      Date: Sat May 16 13:28:12 2020
+
+
+      Sonnet Warning EG2530:
+      Potential problem with box parameter.
+      Circuit does not have air layer immediately above
+      free space bottom cover.
+      Date: Sat May 16 13:28:12 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 2.
+
+Analysis completed Sat May 16 13:56:38 2020.
+
+
+Run 2:  Sat May 16 13:57:56 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.7 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=4997.16, y=2065.95 microns.
+      Date: Sat May 16 14:01:07 2020
+
+
+      Sonnet Warning EG2530:
+      Potential problem with box parameter.
+      Circuit does not have air layer immediately above
+      free space bottom cover.
+      Date: Sat May 16 14:01:07 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 2.
+
+Analysis completed Sat May 16 14:23:20 2020.
+
+
+Run 3:  Sat May 16 14:24:42 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.8 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=4997.16, y=2065.95 microns.
+      Date: Sat May 16 14:28:04 2020
+
+
+      Sonnet Warning EG2530:
+      Potential problem with box parameter.
+      Circuit does not have air layer immediately above
+      free space bottom cover.
+      Date: Sat May 16 14:28:04 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 2.
+
+Analysis completed Sat May 16 14:49:39 2020.
+
+
+Run 4:  Sat May 16 14:54:21 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.8019 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=4997.16, y=2065.95 microns.
+      Date: Sat May 16 14:57:25 2020
+
+
+      Sonnet Warning EG2530:
+      Potential problem with box parameter.
+      Circuit does not have air layer immediately above
+      free space bottom cover.
+      Date: Sat May 16 14:57:25 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 2.
+
+Analysis completed Sat May 16 15:19:20 2020.

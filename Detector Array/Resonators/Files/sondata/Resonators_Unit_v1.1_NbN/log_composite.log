@@ -1,0 +1,333 @@
+Run 1:  Sat May 16 02:26:40 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbN.son.
+
+    Frequency:  4 GHZ
+      Subsectioning at 6 GHz with Eeff of 6.45.
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Sat May 16 02:32:01 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Sat May 16 02:32:01 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Sat May 16 02:32:01 2020
+
+      Subsectioning time:  5 minutes 21 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Left SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Right SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 5642 subsections (791823 CM Cells) and 316 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  5450
+        Conformal:  192
+
+      Required memory by type:
+        System matrix:            243 MB
+        Elemental subsections:
+          Primary structure:      21 MB
+          Left standard:          22 MB
+          Right standard:         22 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    316 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  0 seconds.
+      Coupling time:  7 minutes 22 seconds.
+      Loss time:  7 seconds.
+      Matrix fill time:  7 minutes 29 seconds.
+      Matrix solve time:  44 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 14 seconds.
+        SOC Magnetic Wall Std: 14 seconds.
+        Total:                 28 seconds.
+      Frequency completed Sat May 16 02:40:52 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.00000000 0.129057 60.167 0.991587 -29.73 0.991587 -29.73 0.129059 60.332
+        !< P1 F=4.0 Eeff=(10.6475413 -2.9472e-5) Z0=(62.9231362 -5.9786e-5) R=0.0 C=0.0 
+        !< P2 F=4.0 Eeff=(10.6475413 -2.9472e-5) Z0=(62.9231362 -5.9786e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 51 seconds.
+
+    Frequency:  6 GHZ
+      Frequency completed Sat May 16 02:49:33 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        6.00000000 0.183015 45.652 0.982970 -44.54 0.982970 -44.54 0.183031 45.175
+        !< P1 F=6.0 Eeff=(10.6468604 -5.0105e-5) Z0=(62.9105386 -9.542e-5) R=0.0 C=0.0 
+        !< P2 F=6.0 Eeff=(10.6468604 -5.0105e-5) Z0=(62.9105386 -9.542e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 41 seconds.
+      ABS time:  1 second.
+
+    Frequency:  5 GHZ
+      Frequency completed Sat May 16 02:58:10 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        5.00000000 0.156726 52.955 0.987557 -37.16 0.987557 -37.16 0.156734 52.656
+        !< P1 F=5.0 Eeff=(10.6472158 -3.8833e-5) Z0=(62.9175488 -7.7704e-5) R=0.0 C=0.0 
+        !< P2 F=5.0 Eeff=(10.6472158 -3.8833e-5) Z0=(62.9175488 -7.7704e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 37 seconds.
+      ABS time:  1 second.
+
+    Frequency:  5.58 GHZ
+      Frequency completed Sat May 16 03:06:13 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        5.58000000 0.172195 48.723 0.984949 -41.45 0.984949 -41.45 0.172207 48.311
+        !< P1 F=5.58 Eeff=(10.6470115 -4.5087e-5) Z0=(62.9136639 -8.811e-5) R=0.0 C=0.0 
+        !< P2 F=5.58 Eeff=(10.6470115 -4.5087e-5) Z0=(62.9136639 -8.811e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 3 seconds.
+      ABS time:  1 second.
+
+  Minimum value of MAG[S21] is 0.98297 at 6 GHz.
+
+    Post-Analysis:
+      Total time for 4 frequencies:  39 minutes 34 seconds.
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sat May 16 03:06:14 2020.
+
+
+Run 2:  Sat May 16 03:12:47 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbN.son.
+
+    Frequency:  3 GHZ
+      Subsectioning at 6 GHz with Eeff of 6.45.
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Sat May 16 03:18:26 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Sat May 16 03:18:26 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Sat May 16 03:18:26 2020
+
+      Subsectioning time:  5 minutes 39 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Left SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Right SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 5642 subsections (791823 CM Cells) and 316 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  5450
+        Conformal:  192
+
+      Required memory by type:
+        System matrix:            243 MB
+        Elemental subsections:
+          Primary structure:      21 MB
+          Left standard:          22 MB
+          Right standard:         22 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    316 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  3 seconds.
+      Coupling time:  7 minutes 25 seconds.
+      Loss time:  6 seconds.
+      Matrix fill time:  7 minutes 34 seconds.
+      Matrix solve time:  46 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 12 seconds.
+        SOC Magnetic Wall Std: 15 seconds.
+        Total:                 27 seconds.
+      Frequency completed Sat May 16 03:27:23 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.00000000 0.096598 67.949 0.995297 -22.46 0.995297 -22.46 0.096600 67.108
+        !< P1 F=3.0 Eeff=(10.6478139 -2.1397e-5) Z0=(62.9273972 -4.2679e-5) R=0.0 C=0.0 
+        !< P2 F=3.0 Eeff=(10.6478139 -2.1397e-5) Z0=(62.9273972 -4.2679e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 57 seconds.
+
+    Frequency:  6 GHZ
+      Frequency completed Sat May 16 03:35:51 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        6.00000000 0.183015 45.652 0.982970 -44.54 0.982970 -44.54 0.183031 45.175
+        !< P1 F=6.0 Eeff=(10.6468604 -5.0105e-5) Z0=(62.9105386 -9.542e-5) R=0.0 C=0.0 
+        !< P2 F=6.0 Eeff=(10.6468604 -5.0105e-5) Z0=(62.9105386 -9.542e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 28 seconds.
+      ABS time:  1 second.
+
+    Frequency:  3.63 GHZ
+      Frequency completed Sat May 16 03:44:16 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.63000000 0.120974 62.393 0.992615 -26.80 0.992615 -26.80 0.120972 63.962
+        !< P1 F=3.63 Eeff=(10.6476492 -2.636e-5) Z0=(62.9248633 -5.3333e-5) R=0.0 C=0.0 
+        !< P2 F=3.63 Eeff=(10.6476492 -2.636e-5) Z0=(62.9248633 -5.3333e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 25 seconds.
+      ABS time:  0 seconds.
+
+    Frequency:  3.49 GHZ
+      Frequency completed Sat May 16 03:52:45 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.49000000 0.468811 65.901 0.882345 -4.044 0.882345 -4.044 0.468312 106.25
+        !< P1 F=3.49 Eeff=(10.647688 -2.5223e-5) Z0=(62.9254703 -5.0928e-5) R=0.0 C=0.0 
+        !< P2 F=3.49 Eeff=(10.647688 -2.5223e-5) Z0=(62.9254703 -5.0928e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 29 seconds.
+      ABS time:  1 second.
+
+  Minimum value of MAG[S21] is 0.882345 at 3.49 GHz.
+
+    Post-Analysis:
+      Total time for 4 frequencies:  39 minutes 59 seconds.
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sat May 16 03:52:47 2020.
+
+
+Run 3:  Sat May 16 03:55:47 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbN.son.
+
+    Frequency:  3.48 GHZ
+      Subsectioning at 6 GHz with Eeff of 6.45.
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=0.0, y=360.0 microns.
+      Date: Sat May 16 04:01:39 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=360.0 microns.
+      Date: Sat May 16 04:01:39 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1800.0, y=640.0 microns.
+      Date: Sat May 16 04:01:39 2020
+
+      Subsectioning time:  5 minutes 52 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Left SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Right SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 5642 subsections (791823 CM Cells) and 316 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  5450
+        Conformal:  192
+
+      Required memory by type:
+        System matrix:            243 MB
+        Elemental subsections:
+          Primary structure:      21 MB
+          Left standard:          22 MB
+          Right standard:         22 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    316 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  0 seconds.
+      Coupling time:  7 minutes 29 seconds.
+      Loss time:  5 seconds.
+      Matrix fill time:  7 minutes 34 seconds.
+      Matrix solve time:  45 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 22 seconds.
+        SOC Magnetic Wall Std: 14 seconds.
+        Total:                 36 seconds.
+      Frequency completed Sat May 16 04:10:43 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.48000000 0.055817 95.296 0.998376 -30.22 0.998376 -30.22 0.055839 24.294
+        !< P1 F=3.48 Eeff=(10.6476907 -2.5143e-5) Z0=(62.9255127 -5.0758e-5) R=0.0 C=0.0 
+        !< P2 F=3.48 Eeff=(10.6476907 -2.5143e-5) Z0=(62.9255127 -5.0758e-5) R=0.0 C=0.0 
+      Total time per frequency:  9 minutes 4 seconds.
+
+    Frequency:  3.5 GHZ
+      Frequency completed Sat May 16 04:19:15 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.50000000 0.163353 58.820 0.986512 -22.97 0.986512 -22.97 0.163291 75.217
+        !< P1 F=3.5 Eeff=(10.6476853 -2.5304e-5) Z0=(62.9254278 -5.11e-5) R=0.0 C=0.0 
+        !< P2 F=3.5 Eeff=(10.6476853 -2.5304e-5) Z0=(62.9254278 -5.11e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 32 seconds.
+      ABS time:  0 seconds.
+
+    Frequency:  3.4885 GHZ
+      Frequency completed Sat May 16 04:27:25 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.48850000 0.994350 123.12 0.010172 -83.77 0.010172 -83.77 0.992979 174.11
+        !< P1 F=3.4885 Eeff=(10.6476884 -2.5212e-5) Z0=(62.9254767 -5.0903e-5) R=0.0 C=0.0 
+        !< P2 F=3.4885 Eeff=(10.6476884 -2.5212e-5) Z0=(62.9254767 -5.0903e-5) R=0.0 C=0.0 
+      Total time per frequency:  8 minutes 10 seconds.
+      ABS time:  0 seconds.
+
+  Minimum value of MAG[S21] is 0.010172 at 3.4885 GHz.
+
+    Post-Analysis:
+      Total time for 3 frequencies:  31 minutes 38 seconds.
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sat May 16 04:27:26 2020.

@@ -1,0 +1,194 @@
+Run 1:  Fri May 15 11:33:23 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  3 GHZ
+      Frequency completed Fri May 15 11:47:38 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.00000000 9.904e-4 -109.4 0.999991 -16.70 0.999991 -16.70 9.902e-4 -103.0
+        !< P1 F=3.0 Eeff=(6.45855825 -1.0238e-5) Z0=(49.0102735 -2.1836e-5) R=0.0 C=0.0 
+        !< P2 F=3.0 Eeff=(6.45855825 -1.0238e-5) Z0=(49.0102735 -2.1836e-5) R=0.0 C=0.0 
+
+    Frequency:  7 GHZ
+      Frequency completed Fri May 15 11:56:14 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        7.00000000 0.001129 22.348 0.999929 -38.96 0.999929 -38.96 0.001086 72.770
+        !< P1 F=7.0 Eeff=(6.45842744 -3.1563e-5) Z0=(48.9984395 -5.28e-5) R=0.0 C=0.0 
+        !< P2 F=7.0 Eeff=(6.45842744 -3.1563e-5) Z0=(48.9984395 -5.28e-5) R=0.0 C=0.0 
+
+    Frequency:  5.22 GHZ
+      Frequency completed Fri May 15 12:04:40 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        5.22000000 0.002700 42.335 0.999965 -28.86 0.999965 -28.86 0.002684 78.684
+        !< P1 F=5.22 Eeff=(6.45846098 -1.9958e-5) Z0=(49.0050484 -4.0674e-5) R=0.0 C=0.0 
+        !< P2 F=5.22 Eeff=(6.45846098 -1.9958e-5) Z0=(49.0050484 -4.0674e-5) R=0.0 C=0.0 
+
+    Frequency:  4.86 GHZ
+      Frequency completed Fri May 15 12:13:24 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.86000000 0.043068 51.914 0.999032 -24.54 0.999032 -24.54 0.043019 78.983
+        !< P1 F=4.86 Eeff=(6.45847577 -1.8113e-5) Z0=(49.0061087 -3.7679e-5) R=0.0 C=0.0 
+        !< P2 F=4.86 Eeff=(6.45847577 -1.8113e-5) Z0=(49.0061087 -3.7679e-5) R=0.0 C=0.0 
+
+    Frequency:  4.84 GHZ
+      Frequency completed Fri May 15 12:22:14 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.84000000 0.175770 59.987 0.984193 -16.77 0.984193 -16.77 0.175595 86.597
+        !< P1 F=4.84 Eeff=(6.45847663 -1.8014e-5) Z0=(49.0061651 -3.7513e-5) R=0.0 C=0.0 
+        !< P2 F=4.84 Eeff=(6.45847663 -1.8014e-5) Z0=(49.0061651 -3.7513e-5) R=0.0 C=0.0 
+
+  Minimum value of MAG[S21] is 0.984193 at 4.84 GHz.
+
+Analysis completed Fri May 15 12:22:15 2020.
+
+
+Run 2:  Sat May 16 01:45:12 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.83 GHZ
+      Frequency completed Sat May 16 01:58:53 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83000000 0.305010 -147.9 0.951700 -44.59 0.951700 -44.59 0.304726 -121.5
+        !< P1 F=4.83 Eeff=(6.45847706 -1.7965e-5) Z0=(49.0061932 -3.7428e-5) R=0.0 C=0.0 
+        !< P2 F=4.83 Eeff=(6.45847706 -1.7965e-5) Z0=(49.0061932 -3.7428e-5) R=0.0 C=0.0 
+
+    Frequency:  4.85 GHZ
+      Frequency completed Sat May 16 02:07:21 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.85000000 0.069410 53.620 0.997528 -22.97 0.997528 -22.97 0.069336 80.459
+        !< P1 F=4.85 Eeff=(6.4584762 -1.8063e-5) Z0=(49.0061369 -3.7595e-5) R=0.0 C=0.0 
+        !< P2 F=4.85 Eeff=(6.4584762 -1.8063e-5) Z0=(49.0061369 -3.7595e-5) R=0.0 C=0.0 
+
+    Frequency:  4.8336 GHZ
+      Frequency completed Sat May 16 02:15:02 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83360000 0.993421 139.19 0.014410 33.706 0.014410 33.706 0.992474 165.65
+        !< P1 F=4.8336 Eeff=(6.4584769 -1.7982e-5) Z0=(49.0061831 -3.7458e-5) R=0.0 C=0.0 
+        !< P2 F=4.8336 Eeff=(6.4584769 -1.7982e-5) Z0=(49.0061831 -3.7458e-5) R=0.0 C=0.0 
+
+  Minimum value of MAG[S21] is 0.0144096 at 4.8336 GHz.
+
+Analysis completed Sat May 16 02:15:02 2020.
+
+
+Run 3:  Sat May 16 15:25:34 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.832 GHZ
+      Frequency completed Sat May 16 15:38:55 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83200000 0.542906 -163.2 0.837500 -59.71 0.837500 -59.71 0.542395 -136.8
+        !< P1 F=4.832 Eeff=(6.45847697 -1.7974e-5) Z0=(49.0061875 -3.7443e-5) R=0.0 C=0.0 
+        !< P2 F=4.832 Eeff=(6.45847697 -1.7974e-5) Z0=(49.0061875 -3.7443e-5) R=0.0 C=0.0 
+
+    Frequency:  4.8325 GHZ
+      Frequency completed Sat May 16 15:46:54 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83250000 0.668244 -172.3 0.740020 -68.76 0.740020 -68.76 0.667613 -145.9
+        !< P1 F=4.8325 Eeff=(6.45847695 -1.7977e-5) Z0=(49.0061861 -3.7449e-5) R=0.0 C=0.0 
+        !< P2 F=4.8325 Eeff=(6.45847695 -1.7977e-5) Z0=(49.0061861 -3.7449e-5) R=0.0 C=0.0 
+
+    Frequency:  4.833 GHZ
+      Frequency completed Sat May 16 15:56:18 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83300000 0.826267 173.65 0.555322 -82.53 0.555322 -82.53 0.825484 -159.9
+        !< P1 F=4.833 Eeff=(6.45847693 -1.7979e-5) Z0=(49.0061847 -3.7452e-5) R=0.0 C=0.0 
+        !< P2 F=4.833 Eeff=(6.45847693 -1.7979e-5) Z0=(49.0061847 -3.7452e-5) R=0.0 C=0.0 
+
+    Frequency:  4.8335 GHZ
+      Frequency completed Sat May 16 16:04:56 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83350000 0.967154 153.14 0.228909 -101.9 0.228909 -101.9 0.966234 179.60
+        !< P1 F=4.8335 Eeff=(6.45847691 -1.7982e-5) Z0=(49.0061833 -3.7455e-5) R=0.0 C=0.0 
+        !< P2 F=4.8335 Eeff=(6.45847691 -1.7982e-5) Z0=(49.0061833 -3.7455e-5) R=0.0 C=0.0 
+
+    Frequency:  4.834 GHZ
+      Frequency completed Sat May 16 16:13:32 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83400000 0.974619 128.72 0.194104 49.947 0.194104 49.947 0.973689 155.19
+        !< P1 F=4.834 Eeff=(6.45847689 -1.7984e-5) Z0=(49.0061819 -3.7461e-5) R=0.0 C=0.0 
+        !< P2 F=4.834 Eeff=(6.45847689 -1.7984e-5) Z0=(49.0061819 -3.7461e-5) R=0.0 C=0.0 
+
+    Frequency:  4.8345 GHZ
+      Frequency completed Sat May 16 16:22:00 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83450000 0.840334 107.66 0.533431 30.269 0.533431 30.269 0.839529 134.14
+        !< P1 F=4.8345 Eeff=(6.45847686 -1.7987e-5) Z0=(49.0061805 -3.7464e-5) R=0.0 C=0.0 
+        !< P2 F=4.8345 Eeff=(6.45847686 -1.7987e-5) Z0=(49.0061805 -3.7464e-5) R=0.0 C=0.0 
+
+    Frequency:  4.835 GHZ
+      Frequency completed Sat May 16 16:30:42 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83500000 0.680484 93.118 0.728569 15.992 0.728569 15.992 0.679830 119.62
+        !< P1 F=4.835 Eeff=(6.45847684 -1.7989e-5) Z0=(49.0061791 -3.747e-5) R=0.0 C=0.0 
+        !< P2 F=4.835 Eeff=(6.45847684 -1.7989e-5) Z0=(49.0061791 -3.747e-5) R=0.0 C=0.0 
+
+Analysis completed Sat May 16 16:30:42 2020.
+
+
+Run 4:  Sun May 17 07:33:11 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.8336 GHZ
+      Frequency completed Sun May 17 07:48:50 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83360000 0.982732 148.36 0.147046 -105.7 0.147046 -105.7 0.981796 174.82
+        !< P1 F=4.8336 Eeff=(6.4584769 -1.7982e-5) Z0=(49.0061831 -3.7458e-5) R=0.0 C=0.0 
+        !< P2 F=4.8336 Eeff=(6.4584769 -1.7982e-5) Z0=(49.0061831 -3.7458e-5) R=0.0 C=0.0 
+
+    Frequency:  4.5 GHZ
+      Frequency completed Sun May 17 07:58:41 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.50000000 0.003830 -124.8 0.999971 -25.22 0.999971 -25.22 0.003830 -105.0
+        !< P1 F=4.5 Eeff=(6.45849161 -1.639e-5) Z0=(49.0070835 -3.4626e-5) R=0.0 C=0.0 
+        !< P2 F=4.5 Eeff=(6.45849161 -1.639e-5) Z0=(49.0070835 -3.4626e-5) R=0.0 C=0.0 
+
+    Frequency:  5 GHZ
+      Frequency completed Sun May 17 08:08:24 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        5.00000000 0.006585 47.130 0.999950 -27.41 0.999950 -27.41 0.006569 77.592
+        !< P1 F=5.0 Eeff=(6.45846986 -1.8815e-5) Z0=(49.0057066 -3.8853e-5) R=0.0 C=0.0 
+        !< P2 F=5.0 Eeff=(6.45846986 -1.8815e-5) Z0=(49.0057066 -3.8853e-5) R=0.0 C=0.0 
+
+Analysis completed Sun May 17 08:08:24 2020.
+
+
+Run 5:  Sun May 17 08:46:11 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_1.son.
+
+    Frequency:  4.8337 GHZ
+      Frequency completed Sun May 17 09:01:17 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.83370000 0.991602 143.45 0.062242 -106.9 0.062242 -106.9 0.990657 169.92
+        !< P1 F=4.8337 Eeff=(6.4584769 -1.7983e-5) Z0=(49.0061828 -3.7458e-5) R=0.0 C=0.0 
+        !< P2 F=4.8337 Eeff=(6.4584769 -1.7983e-5) Z0=(49.0061828 -3.7458e-5) R=0.0 C=0.0 
+
+Analysis completed Sun May 17 09:01:18 2020.

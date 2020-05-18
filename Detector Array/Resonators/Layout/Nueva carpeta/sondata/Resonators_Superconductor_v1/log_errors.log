@@ -1,0 +1,66 @@
+Run 1:  Sat May 16 04:42:12 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1.son.
+
+    Frequency:  4 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=4997.16, y=191.948 microns.
+      Date: Sat May 16 05:20:57 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=-1.8363, y=196.948 microns.
+      Date: Sat May 16 05:20:57 2020
+
+
+      Sonnet Warning EG2530:
+      Potential problem with box parameter.
+      Circuit does not have air layer immediately above
+      free space bottom cover.
+      Date: Sat May 16 05:20:57 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sat May 16 06:55:33 2020.
+
+
+Run 2:  Sat May 16 06:58:43 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1.son.
+
+    Frequency:  4.734 GHZ
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=4997.16, y=191.948 microns.
+      Date: Sat May 16 07:38:13 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=-1.8363, y=196.948 microns.
+      Date: Sat May 16 07:38:13 2020
+
+
+      Sonnet Warning EG2530:
+      Potential problem with box parameter.
+      Circuit does not have air layer immediately above
+      free space bottom cover.
+      Date: Sat May 16 07:38:13 2020
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Sat May 16 08:50:41 2020.

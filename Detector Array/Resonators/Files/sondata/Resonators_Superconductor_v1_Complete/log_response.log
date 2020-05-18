@@ -1,0 +1,142 @@
+Run 1:  Sat May 16 13:24:49 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4 GHZ
+      Frequency completed Sat May 16 13:34:46 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.00000000 0.002585 53.052 0.994487 -62.46 0.994487 -62.46 0.004238 84.921
+        !< P1 F=4.0 Eeff=(6.68084047 -0.2162481) Z0=(48.7579342 0.69936178) R=0.0 C=0.0 
+        !< P2 F=4.0 Eeff=(6.68737737 -0.2229148) Z0=(49.2880238 0.72826058) R=0.0 C=0.0 
+
+    Frequency:  5 GHZ
+      Frequency completed Sat May 16 13:41:49 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        5.00000000 0.010380 0.4726 0.993223 -77.70 0.993223 -77.70 0.010987 37.473
+        !< P1 F=5.0 Eeff=(6.65595112 -0.2246853) Z0=(48.8309208 0.70862096) R=0.0 C=0.0 
+        !< P2 F=5.0 Eeff=(6.66194441 -0.2314209) Z0=(49.3637148 0.73726605) R=0.0 C=0.0 
+
+    Frequency:  4.81 GHZ
+      Frequency completed Sat May 16 13:49:08 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.81000000 0.108500 19.755 0.964909 -69.30 0.964909 -69.30 0.106313 48.135
+        !< P1 F=4.81 Eeff=(6.6609082 -0.2231742) Z0=(48.816588 0.70704465) R=0.0 C=0.0 
+        !< P2 F=4.81 Eeff=(6.66701299 -0.2298893) Z0=(49.3488383 0.73570852) R=0.0 C=0.0 
+
+    Frequency:  4.62 GHZ
+      Frequency completed Sat May 16 13:56:37 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.62000000 8.912e-4 101.38 0.993787 -72.32 0.993787 -72.32 0.002570 103.71
+        !< P1 F=4.62 Eeff=(6.66579419 -0.2215896) Z0=(48.8023541 0.70527092) R=0.0 C=0.0 
+        !< P2 F=4.62 Eeff=(6.67200756 -0.228286) Z0=(49.3340707 0.73396052) R=0.0 C=0.0 
+
+  Minimum value of MAG[S21] is 0.786994 at 4.8 GHz.
+
+Analysis completed Sat May 16 13:56:38 2020.
+
+
+Run 2:  Sat May 16 13:57:56 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.7 GHZ
+      Frequency completed Sat May 16 14:08:22 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.70000000 0.003832 169.96 0.993631 -73.79 0.993631 -73.79 0.003685 168.66
+        !< P1 F=4.7 Eeff=(6.66374744 -0.2222644) Z0=(48.8083292 0.70603705) R=0.0 C=0.0 
+        !< P2 F=4.7 Eeff=(6.6699155 -0.2289684) Z0=(49.340269 0.73471465) R=0.0 C=0.0 
+
+    Frequency:  4.9 GHZ
+      Frequency completed Sat May 16 14:16:07 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.90000000 0.014674 3.0893 0.993101 -75.89 0.993101 -75.89 0.015170 37.181
+        !< P1 F=4.9 Eeff=(6.65856728 -0.2239002) Z0=(48.8233705 0.7078201) R=0.0 C=0.0 
+        !< P2 F=4.9 Eeff=(6.66461957 -0.2306249) Z0=(49.3558773 0.73647449) R=0.0 C=0.0 
+
+    Frequency:  4.802 GHZ
+      Frequency completed Sat May 16 14:23:19 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.80200000 0.329949 87.226 0.670654 -73.35 0.670654 -73.35 0.321016 114.76
+        !< P1 F=4.802 Eeff=(6.66111556 -0.2231088) Z0=(48.815986 0.70697345) R=0.0 C=0.0 
+        !< P2 F=4.802 Eeff=(6.66722499 -0.229823) Z0=(49.3482136 0.73563823) R=0.0 C=0.0 
+
+  Minimum value of MAG[S21] is 0.670654 at 4.802 GHz.
+
+Analysis completed Sat May 16 14:23:20 2020.
+
+
+Run 3:  Sat May 16 14:24:42 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.8 GHZ
+      Frequency completed Sat May 16 14:35:25 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.80000000 0.271780 125.06 0.786978 -86.11 0.786978 -86.11 0.263937 152.36
+        !< P1 F=4.8 Eeff=(6.66116738 -0.2230924) Z0=(48.8158356 0.70695559) R=0.0 C=0.0 
+        !< P2 F=4.8 Eeff=(6.66727797 -0.2298065) Z0=(49.3480575 0.7356206) R=0.0 C=0.0 
+
+    Frequency:  4.804 GHZ
+      Frequency completed Sat May 16 14:42:47 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.80400000 0.259792 52.300 0.810511 -63.85 0.810511 -63.85 0.253216 80.051
+        !< P1 F=4.804 Eeff=(6.66106373 -0.2231251) Z0=(48.8161365 0.70699128) R=0.0 C=0.0 
+        !< P2 F=4.804 Eeff=(6.667172 -0.2298396) Z0=(49.3483698 0.73565583) R=0.0 C=0.0 
+
+    Frequency:  4.80194 GHZ
+      Frequency completed Sat May 16 14:49:38 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.80194000 0.330277 88.492 0.669750 -73.96 0.669750 -73.96 0.321317 116.02
+        !< P1 F=4.80194 Eeff=(6.66111712 -0.2231083) Z0=(48.8159815 0.70697291) R=0.0 C=0.0 
+        !< P2 F=4.80194 Eeff=(6.66722658 -0.2298226) Z0=(49.3482089 0.7356377) R=0.0 C=0.0 
+
+  Minimum value of MAG[S21] is 0.669117 at 4.80184 GHz.
+
+Analysis completed Sat May 16 14:49:39 2020.
+
+
+Run 4:  Sat May 16 14:54:21 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.8019 GHZ
+      Frequency completed Sat May 16 15:04:47 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.80190000 0.330406 89.338 0.669365 -74.37 0.669365 -74.37 0.321431 116.86
+        !< P1 F=4.8019 Eeff=(6.66111816 -0.223108) Z0=(48.8159785 0.70697256) R=0.0 C=0.0 
+        !< P2 F=4.8019 Eeff=(6.66722764 -0.2298222) Z0=(49.3482058 0.73563735) R=0.0 C=0.0 
+
+    Frequency:  4.8021 GHZ
+      Frequency completed Sat May 16 15:12:05 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.80210000 0.329048 85.124 0.673009 -72.36 0.673009 -72.36 0.320169 112.67
+        !< P1 F=4.8021 Eeff=(6.66111297 -0.2231096) Z0=(48.8159936 0.70697434) R=0.0 C=0.0 
+        !< P2 F=4.8021 Eeff=(6.66722234 -0.2298239) Z0=(49.3482214 0.73563911) R=0.0 C=0.0 
+
+    Frequency:  4.802 GHZ
+      Frequency completed Sat May 16 15:19:19 2020.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        4.80200000 0.329949 87.226 0.670654 -73.35 0.670654 -73.35 0.321016 114.76
+        !< P1 F=4.802 Eeff=(6.66111556 -0.2231088) Z0=(48.815986 0.70697345) R=0.0 C=0.0 
+        !< P2 F=4.802 Eeff=(6.66722499 -0.229823) Z0=(49.3482136 0.73563823) R=0.0 C=0.0 
+
+  Minimum value of MAG[S21] is 0.669117 at 4.80184 GHz.
+
+Analysis completed Sat May 16 15:19:20 2020.

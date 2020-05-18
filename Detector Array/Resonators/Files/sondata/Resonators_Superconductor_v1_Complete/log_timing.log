@@ -1,0 +1,270 @@
+Run 1:  Sat May 16 13:24:49 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  3 minutes 23 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Left SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Right SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 8011 subsections (578909 CM Cells) and 542 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  7952
+        Conformal:  59
+
+      Required memory by type:
+        System matrix:            490 MB
+        Elemental subsections:
+          Primary structure:      15 MB
+          Left standard:          15 MB
+          Right standard:         15 MB
+        Fourier transform:        3 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    542 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  2 seconds.
+      Coupling time:  3 minutes 28 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  3 minutes 30 seconds.
+      Matrix solve time:  1 minute 51 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 15 seconds.
+        SOC Magnetic Wall Std: 11 seconds.
+        Total:                 26 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 19 seconds.
+        SOC Magnetic Wall Std: 13 seconds.
+        Total:                 32 seconds.
+      Total time per frequency:  6 minutes 34 seconds.
+
+    Frequency:  5 GHZ
+      Total time per frequency:  7 minutes 3 seconds.
+      ABS time:  1 second.
+
+    Frequency:  4.81 GHZ
+      Total time per frequency:  7 minutes 19 seconds.
+      ABS time:  1 second.
+
+    Frequency:  4.62 GHZ
+      Total time per frequency:  7 minutes 29 seconds.
+      ABS time:  1 second.
+
+    Post-Analysis:
+      Total time for 4 frequencies:  31 minutes 49 seconds.
+
+Analysis completed Sat May 16 13:56:38 2020.
+
+
+Run 2:  Sat May 16 13:57:56 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.7 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  3 minutes 11 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Left SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Right SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 8011 subsections (578909 CM Cells) and 542 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  7952
+        Conformal:  59
+
+      Required memory by type:
+        System matrix:            490 MB
+        Elemental subsections:
+          Primary structure:      15 MB
+          Left standard:          15 MB
+          Right standard:         15 MB
+        Fourier transform:        3 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    542 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  2 seconds.
+      Coupling time:  4 minutes 9 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  4 minutes 11 seconds.
+      Matrix solve time:  1 minute 57 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 17 seconds.
+        SOC Magnetic Wall Std: 16 seconds.
+        Total:                 33 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 12 seconds.
+        SOC Magnetic Wall Std: 14 seconds.
+        Total:                 26 seconds.
+      Total time per frequency:  7 minutes 15 seconds.
+
+    Frequency:  4.9 GHZ
+      Total time per frequency:  7 minutes 45 seconds.
+      ABS time:  1 second.
+
+    Frequency:  4.802 GHZ
+      Total time per frequency:  7 minutes 12 seconds.
+      ABS time:  1 second.
+
+    Post-Analysis:
+      Total time for 3 frequencies:  25 minutes 24 seconds.
+
+Analysis completed Sat May 16 14:23:20 2020.
+
+
+Run 3:  Sat May 16 14:24:42 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.8 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  3 minutes 22 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Left SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Right SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 8011 subsections (578909 CM Cells) and 542 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  7952
+        Conformal:  59
+
+      Required memory by type:
+        System matrix:            490 MB
+        Elemental subsections:
+          Primary structure:      15 MB
+          Left standard:          15 MB
+          Right standard:         15 MB
+        Fourier transform:        3 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    542 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  1 second.
+      Fourier transform time:  3 seconds.
+      Coupling time:  4 minutes 26 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  4 minutes 30 seconds.
+      Matrix solve time:  1 minute 56 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 9 seconds.
+        SOC Magnetic Wall Std: 12 seconds.
+        Total:                 21 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 15 seconds.
+        SOC Magnetic Wall Std: 11 seconds.
+        Total:                 26 seconds.
+      Total time per frequency:  7 minutes 21 seconds.
+
+    Frequency:  4.804 GHZ
+      Total time per frequency:  7 minutes 22 seconds.
+      ABS time:  2 seconds.
+
+    Frequency:  4.80194 GHZ
+      Total time per frequency:  6 minutes 51 seconds.
+      ABS time:  1 second.
+
+    Post-Analysis:
+      Total time for 3 frequencies:  24 minutes 57 seconds.
+
+Analysis completed Sat May 16 14:49:39 2020.
+
+
+Run 4:  Sat May 16 14:54:21 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor_v1_Complete.son.
+
+    Frequency:  4.8019 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  3 minutes 4 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Left SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 2500 microns length, 697 subsections, 15 MB.
+        Right SOC Magnetic Wall: 5000 microns length, 672 subsections, 15 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 8011 subsections (578909 CM Cells) and 542 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  7952
+        Conformal:  59
+
+      Required memory by type:
+        System matrix:            490 MB
+        Elemental subsections:
+          Primary structure:      15 MB
+          Left standard:          15 MB
+          Right standard:         15 MB
+        Fourier transform:        3 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    542 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  1 second.
+      Fourier transform time:  1 second.
+      Coupling time:  4 minutes 28 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  4 minutes 30 seconds.
+      Matrix solve time:  1 minute 58 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 12 seconds.
+        SOC Magnetic Wall Std: 9 seconds.
+        Total:                 21 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 15 seconds.
+        SOC Magnetic Wall Std: 11 seconds.
+        Total:                 26 seconds.
+      Total time per frequency:  7 minutes 22 seconds.
+
+    Frequency:  4.8021 GHZ
+      Total time per frequency:  7 minutes 18 seconds.
+      ABS time:  1 second.
+
+    Frequency:  4.802 GHZ
+      Total time per frequency:  7 minutes 14 seconds.
+      ABS time:  0 seconds.
+
+    Post-Analysis:
+      Total time for 3 frequencies:  24 minutes 58 seconds.
+
+Analysis completed Sat May 16 15:19:20 2020.

@@ -1,0 +1,427 @@
+Run 1:  Sat May 16 16:30:43 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Frequency:  4 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  5 minutes 49 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Left SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Right SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 5622 subsections (792518 CM Cells) and 314 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  5450
+        Conformal:  172
+
+      Required memory by type:
+        System matrix:            241 MB
+        Elemental subsections:
+          Primary structure:      21 MB
+          Left standard:          22 MB
+          Right standard:         22 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    314 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  1 second.
+      Coupling time:  7 minutes 31 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  7 minutes 32 seconds.
+      Matrix solve time:  44 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 20 seconds.
+        SOC Magnetic Wall Std: 16 seconds.
+        Total:                 36 seconds.
+      Total time per frequency:  9 minutes 2 seconds.
+
+    Frequency:  5 GHZ
+      Total time per frequency:  8 minutes 41 seconds.
+      ABS time:  1 second.
+
+    Frequency:  4.87 GHZ
+      Total time per frequency:  8 minutes 51 seconds.
+      ABS time:  0 seconds.
+
+    Frequency:  4.85 GHZ
+      Total time per frequency:  8 minutes 39 seconds.
+      ABS time:  1 second.
+
+    Frequency:  3.7 GHZ
+      Total time per frequency:  8 hours 57 minutes.
+
+Analysis stopped Sun May 17 02:11:45 2020 with signal 2.
+
+
+Run 2:  Sun May 17 02:12:39 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Pre-Analysis:
+      ABS time:  1 second.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  1 second.
+
+Analysis completed Sun May 17 02:12:40 2020.
+
+
+Run 2:  Sun May 17 02:14:27 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Pre-Analysis:
+      ABS time:  2 seconds.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  2 seconds.
+
+Analysis completed Sun May 17 02:14:29 2020.
+
+
+Run 2:  Sun May 17 02:16:09 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Sun May 17 02:16:09 2020.
+
+
+Run 2:  Sun May 17 02:16:10 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Sun May 17 02:16:10 2020.
+
+
+Run 2:  Sun May 17 02:16:26 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Sun May 17 02:16:26 2020.
+
+
+Run 2:  Sun May 17 02:16:48 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Sun May 17 02:16:48 2020.
+
+
+Run 2:  Sun May 17 02:19:29 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Sun May 17 02:19:29 2020.
+
+
+Run 2:  Sun May 17 02:19:46 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Sun May 17 02:19:46 2020.
+
+
+Run 2:  Sun May 17 02:20:46 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Sun May 17 02:20:46 2020.
+
+
+Run 2:  Sun May 17 02:22:10 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Pre-Analysis:
+      ABS time:  1 second.
+
+    Frequency:  4.84 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  5 minutes 37 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 900 microns length, 581 subsections, 20 MB.
+        Left SOC Magnetic Wall: 1800 microns length, 559 subsections, 20 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 900 microns length, 581 subsections, 20 MB.
+        Right SOC Magnetic Wall: 1800 microns length, 559 subsections, 20 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 5622 subsections (792518 CM Cells) and 315 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  5450
+        Conformal:  172
+
+      Required memory by type:
+        System matrix:            241 MB
+        Elemental subsections:
+          Primary structure:      21 MB
+          Left standard:          22 MB
+          Right standard:         22 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  2 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    315 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  1 second.
+      Coupling time:  7 minutes 12 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  7 minutes 13 seconds.
+      Matrix solve time:  42 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 15 seconds.
+        SOC Magnetic Wall Std: 10 seconds.
+        Total:                 25 seconds.
+      Total time per frequency:  8 minutes 31 seconds.
+
+    Frequency:  4.855 GHZ
+      Total time per frequency:  8 minutes 49 seconds.
+      ABS time:  1 second.
+
+    Frequency:  4.84905 GHZ
+      Total time per frequency:  8 minutes 49 seconds.
+      ABS time:  1 second.
+
+    Post-Analysis:
+      Total time for 3 frequencies:  31 minutes 47 seconds.
+
+Analysis completed Sun May 17 02:53:57 2020.
+
+
+Run 3:  Sun May 17 02:57:25 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Frequency:  4.8405 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  5 minutes 25 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Left SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Right SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 5594 subsections (792540 CM Cells) and 311 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  5450
+        Conformal:  144
+
+      Required memory by type:
+        System matrix:            239 MB
+        Elemental subsections:
+          Primary structure:      21 MB
+          Left standard:          22 MB
+          Right standard:         22 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  0 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    311 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  0 seconds.
+      Fourier transform time:  1 second.
+      Coupling time:  7 minutes 29 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  7 minutes 30 seconds.
+      Matrix solve time:  43 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 22 seconds.
+        SOC Magnetic Wall Std: 15 seconds.
+        Total:                 37 seconds.
+      Total time per frequency:  9 minutes 1 second.
+
+    Frequency:  4.841 GHZ
+      Total time per frequency:  8 minutes 55 seconds.
+
+    Frequency:  4.8415 GHZ
+      Total time per frequency:  9 minutes.
+
+    Frequency:  4.842 GHZ
+      Total time per frequency:  8 minutes 57 seconds.
+
+    Frequency:  4.8425 GHZ
+      Total time per frequency:  8 minutes 41 seconds.
+
+    Frequency:  4.843 GHZ
+      Total time per frequency:  9 minutes 12 seconds.
+
+    Frequency:  4.8435 GHZ
+      Total time per frequency:  8 minutes 59 seconds.
+
+    Frequency:  4.844 GHZ
+      Total time per frequency:  8 minutes 49 seconds.
+
+    Frequency:  4.8445 GHZ
+      Total time per frequency:  8 minutes 47 seconds.
+
+    Frequency:  4.845 GHZ
+      Total time per frequency:  8 minutes 32 seconds.
+
+    Post-Analysis:
+      Total time for 10 frequencies:  1 hour 34 minutes.
+
+Analysis completed Sun May 17 04:31:43 2020.
+
+
+Run 4:  Sun May 17 04:32:04 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Unit_v1.1_NbNceroKi.son.
+
+    Frequency:  4.8455 GHZ
+      Subsectioning at 5 GHz with Eeff of 6.45.
+      Subsectioning time:  5 minutes 13 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Left SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 900 microns length, 581 subsections, 18 MB.
+        Right SOC Magnetic Wall: 1800 microns length, 559 subsections, 18 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 5594 subsections (792540 CM Cells) and 311 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  5450
+        Conformal:  144
+
+      Required memory by type:
+        System matrix:            239 MB
+        Elemental subsections:
+          Primary structure:      21 MB
+          Left standard:          22 MB
+          Right standard:         22 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  0 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    311 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  1 second.
+      Fourier transform time:  2 seconds.
+      Coupling time:  7 minutes 26 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  7 minutes 29 seconds.
+      Matrix solve time:  43 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 14 seconds.
+        SOC Magnetic Wall Std: 14 seconds.
+        Total:                 28 seconds.
+      Total time per frequency:  8 minutes 49 seconds.
+
+    Frequency:  4.846 GHZ
+      Total time per frequency:  9 minutes 3 seconds.
+
+    Frequency:  4.8465 GHZ
+      Total time per frequency:  8 minutes 54 seconds.
+
+    Frequency:  4.847 GHZ
+      Total time per frequency:  8 minutes 10 seconds.
+
+    Frequency:  4.8475 GHZ
+      Total time per frequency:  9 minutes 14 seconds.
+
+    Frequency:  4.848 GHZ
+      Total time per frequency:  8 minutes 58 seconds.
+
+    Frequency:  4.8485 GHZ
+      Total time per frequency:  9 minutes.
+
+    Frequency:  4.849 GHZ
+      Total time per frequency:  8 minutes 47 seconds.
+
+    Frequency:  4.8495 GHZ
+      Total time per frequency:  9 minutes.
+
+    Frequency:  4.85 GHZ
+      Total time per frequency:  8 minutes 35 seconds.
+
+    Frequency:  4.8505 GHZ
+      Total time per frequency:  8 minutes 25 seconds.
+
+    Frequency:  4.851 GHZ
+      Total time per frequency:  8 minutes 21 seconds.
+
+    Frequency:  4.8515 GHZ
+      Total time per frequency:  8 minutes 58 seconds.
+
+    Frequency:  4.852 GHZ
+      Total time per frequency:  9 minutes 53 seconds.
+
+    Frequency:  4.8525 GHZ
+      Total time per frequency:  8 minutes 31 seconds.
+
+    Frequency:  4.853 GHZ
+      Total time per frequency:  8 minutes 44 seconds.
+
+    Frequency:  4.8535 GHZ
+      Total time per frequency:  8 minutes 22 seconds.
+
+    Frequency:  4.854 GHZ
+      Total time per frequency:  8 minutes 44 seconds.
+
+    Frequency:  4.8545 GHZ
+      Total time per frequency:  8 minutes 50 seconds.
+
+    Post-Analysis:
+      Total time for 19 frequencies:  2 hours 52 minutes.
+
+Analysis completed Sun May 17 07:24:35 2020.

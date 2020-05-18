@@ -1,0 +1,68 @@
+Run 1:  Thu May 14 08:20:20 2020.  Sonn.1.12345.
+        Em version 14.52 (32-bit LNX-86) on localhost.localdomain local.
+
+  Project:  /home/eslam/Desktop/Resonators_Superconductor.son.
+
+    Frequency:  4 GHZ
+      Subsectioning at 4 GHz with Eeff of 6.45.
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -1 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=1.0, y=1372.5 microns.
+      Date: Thu May 14 09:01:39 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to bottom box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=5000.0, y=1367.5 microns.
+      Date: Thu May 14 09:01:39 2020
+
+
+      Sonnet Warning EG2550:
+      Potential problem with circuit.
+      Port -2 is attached to polygon which is shorted to top box wall.
+      Sonnet Location: tech layer Stream1:0 (metal level 0); x=5000.0, y=4628.5 microns.
+      Date: Thu May 14 09:01:39 2020
+
+
+      Sonnet Warning EG2530:
+      Potential problem with box parameter.
+      Circuit does not have air layer immediately above
+      free space bottom cover.
+      Date: Thu May 14 09:01:39 2020
+
+      Subsectioning time:  41 minutes 19 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 2500 microns length, 276 subsections, 73 MB.
+        Left SOC Magnetic Wall: 5000 microns length, 261 subsections, 73 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 2500 microns length, 276 subsections, 73 MB.
+        Right SOC Magnetic Wall: 5000 microns length, 261 subsections, 73 MB.
+      Em license feature:  emhighperformance.
+      Circuit requires 6651 subsections and 717 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  6651
+
+      Required memory by type:
+        System matrix:            337 MB
+        Elemental subsections:
+          Primary structure:      123 MB
+          Left standard:          116 MB
+          Right standard:         116 MB
+        Fourier transform:        19 MB
+        Waveguide mode:           4 MB
+        Adaptive band synthesis:  0 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    717 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 4 thread(s), 4 core(s) available.
+      Waveguide mode time:  1 second.
+      Errors detected: 0    Warnings detected: 4.
+
+Analysis stopped Thu May 14 09:15:12 2020 with signal 2.
